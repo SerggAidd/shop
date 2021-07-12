@@ -1,0 +1,22 @@
+﻿@model Shop.BL.Product.ProductViewModal
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Редактирование и добавление</h2>
+
+<form action="/product/edit" method="post">
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    @Html.HiddenFor(x => x.ID)
+
+    <div class="form-group">
+        <label for="exampleInputEmail1">Продукт</label>
+        @Html.TextBoxFor(i => i.Name, new { @class = "form-control", placeholder = "Название" })
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Раздел</label>
+        @Html.DropDownListFor(i => i.SectionId, (SelectList)ViewBag.ListSections, new { @class = "form-control" })
+    </div>
+    <button type="submit" class="btn btn-primary">Добавить</button>
+</form>

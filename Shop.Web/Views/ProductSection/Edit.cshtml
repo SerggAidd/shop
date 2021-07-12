@@ -1,0 +1,19 @@
+﻿@model Shop.BL.ProductSection.ProductSectionViewModal
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Редактирование</h2>
+
+<form action="/productsection/edit" method="post">
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+    @Html.HiddenFor(x => x.ID)
+
+    <div class="form-group">
+        
+        <label for="exampleInputEmail1">Наименование</label>
+        @Html.TextBoxFor(i => i.Name, new { @class = "form-control", placeholder="Название" })
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

@@ -1,0 +1,36 @@
+﻿@model List<Shop.Db.Models.BrandEntity>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Бренд</h2>
+
+<div class="container_row" style="display: flex; justify-content: center;">
+    @Html.ActionLink("Добавить", "Edit", "Brand", new { @class = "btn btn-info", style = "margin: 20px 0px 0px 0px; padding: 5px 70px;" })
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Наименование</th>
+            <th scope="col">Раздел</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.ID</th>
+                <td>@item.Name</td>
+                <td>
+                    @Html.ActionLink("Редактировать", "Edit", "Brand",
+                   new { id = item.ID }, new { @class = "btn btn-success" })
+                    @Html.ActionLink("Удалить", "Delete", "Brand",
+                   new { id = item.ID }, new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

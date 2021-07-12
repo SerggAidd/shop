@@ -1,0 +1,33 @@
+﻿@model List<Shop.Db.Models.ProductSectionEntity>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container_row" style="display: flex; justify-content: center;">
+    @Html.ActionLink("Добавить", "Edit", "ProductSection", new { @class = "btn btn-info", style = "margin: 20px 0px 0px 0px; padding: 5px 70px;" })
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Наименование</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.ID</th>
+                <td>@item.Name</td>
+                <td>
+                    @Html.ActionLink("Редактировать","Edit", "ProductSection",
+                   new { id = item.ID },  new { @class = "btn btn-success"})
+                    @Html.ActionLink("Удалить", "Delete", "ProductSection",
+                   new { id = item.ID },  new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

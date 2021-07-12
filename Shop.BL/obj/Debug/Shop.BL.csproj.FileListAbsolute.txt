@@ -1,0 +1,41 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.BL\bin\Debug\Shop.BL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.BL\bin\Debug\Shop.BL.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.BL\obj\Debug\Shop.BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.BL\obj\Debug\Shop.BL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.BL\obj\Debug\Shop.BL.pdb
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\Shop.BL.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\Shop.Db.dll
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\Shop.Db.pdb
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\Shop.Db.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\shop\Shop.BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\Shop.BL.dll.config
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\Shop.BL.dll
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\Shop.BL.pdb
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\EntityFramework.dll
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\Shop.Db.dll
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\Shop.Db.pdb
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\Shop.Db.dll.config
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\EntityFramework.xml
+D:\MyFolder\Web\Shop\Shop.BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFolder\Web\Shop\Shop.BL\obj\Debug\Shop.BL.csproj.AssemblyReference.cache
+D:\MyFolder\Web\Shop\Shop.BL\obj\Debug\Shop.BL.csproj.CoreCompileInputs.cache
+D:\MyFolder\Web\Shop\Shop.BL\obj\Debug\Shop.BL.csproj.CopyComplete
+D:\MyFolder\Web\Shop\Shop.BL\obj\Debug\Shop.BL.dll
+D:\MyFolder\Web\Shop\Shop.BL\obj\Debug\Shop.BL.pdb
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\Shop.BL.dll.config
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\Shop.BL.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\Shop.BL.pdb
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\Shop.Db.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\Shop.Db.pdb
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\Shop.Db.dll.config
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\EntityFramework.xml
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\obj\Debug\Shop.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\obj\Debug\Shop.BL.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.BL\obj\Debug\Shop.BL.pdb

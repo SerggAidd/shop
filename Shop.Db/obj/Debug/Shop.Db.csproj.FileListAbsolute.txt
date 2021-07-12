@@ -1,0 +1,32 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\Shop.Db.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\Shop.Db.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\Shop.Db.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\obj\Debug\Shop.Db.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\obj\Debug\Shop.Db.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\shop\Shop.Db\obj\Debug\Shop.Db.csprojResolveAssemblyReference.cache
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\Shop.Db.dll.config
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\Shop.Db.dll
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\Shop.Db.pdb
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\EntityFramework.dll
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\EntityFramework.xml
+D:\MyFolder\Web\Shop\Shop.Db\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFolder\Web\Shop\Shop.Db\obj\Debug\Shop.Db.csproj.CoreCompileInputs.cache
+D:\MyFolder\Web\Shop\Shop.Db\obj\Debug\Shop.Db.csproj.CopyComplete
+D:\MyFolder\Web\Shop\Shop.Db\obj\Debug\Shop.Db.dll
+D:\MyFolder\Web\Shop\Shop.Db\obj\Debug\Shop.Db.pdb
+D:\MyFolder\Web\Shop\Shop.Db\obj\Debug\Shop.Db.csproj.AssemblyReference.cache
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\Shop.Db.dll.config
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\Shop.Db.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\Shop.Db.pdb
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\EntityFramework.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\EntityFramework.xml
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\obj\Debug\Shop.Db.csprojResolveAssemblyReference.cache
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\obj\Debug\Shop.Db.dll
+C:\Users\Ракета-2\Desktop\SerggAidd\Shop-main\Shop.Db\obj\Debug\Shop.Db.pdb
